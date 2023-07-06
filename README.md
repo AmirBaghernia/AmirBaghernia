@@ -9,7 +9,7 @@
 
 - 🔭 &nbsp; I’m currently learning Django and PHP
 - 👀 &nbsp; Exploring new technologies and getting to know complex ideas.
-- 🎓 &nbsp; Studying Applied Mathematics at the University of Guilan and computer science on my own.
+- 🎓 &nbsp; Studying Applied Mathematics and computer science at the University of Guilan and a member of the mathematical society.
 - 💼 &nbsp; full-stack developer and part-time network administrator.
 - 🤖 &nbsp; Enthusiast in Cryptography and Artificial Intelligence.
 - 💤 &nbsp; I spend whatever free time I have on books📚 and movies🎥.
