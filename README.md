@@ -30,7 +30,7 @@
 
 </br>
 
-<p>social media coming soon...</p>
+<p>social media and everything else, coming soon...</p>
 
 
 
