@@ -7,7 +7,7 @@
 <p>I am a student from Iran enrolled at the University of Guilan, pursuing a degree in applied mathematics and computer science. My passion lies in continually acquiring knowledge as a means of enriching life. Furthermore, I derive immense satisfaction from imparting knowledge to others, as evidenced by my extensive volunteer work at schools and institutions. In essence, my ultimate ambition is to harness the full potential within me and really create a difference in ... well everything.
 </p><br>
 
-- 🔭 &nbsp; I’m currently learning Django and PHP
+- 🔭 &nbsp; I’m currently learning Django, PHP and plugin writing.
 - 👀 &nbsp; Exploring new technologies and getting to know complex ideas.
 - 🎓 &nbsp; Studying Applied Mathematics and computer science at the University of Guilan and a member of the mathematical society.
 - 💼 &nbsp; full-stack developer and part-time network administrator.
