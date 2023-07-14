@@ -8,20 +8,47 @@
 </p><br>
 
 - 🔭 &nbsp; I’m currently learning Django, PHP and plugin writing.
-- 👀 &nbsp; Exploring new technologies and getting to know complex ideas.
+- 👀 &nbsp; Exploring new technologies and learning complex ideas.
 - 🎓 &nbsp; Studying Applied Mathematics and computer science at the University of Guilan and a member of the mathematical society.
 - 💼 &nbsp; full-stack developer and part-time network administrator.
 - 🤖 &nbsp; Enthusiast in Cryptography and Artificial Intelligence.
 - 💤 &nbsp; I spend whatever free time I have on books📚 and movies🎥.
 - 🤔 &nbsp; I believe, people should play more chess. 
 
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | C++ | PHP(soon)
-- 🌐 &nbsp; Full-Stack | HTML | CSS | JavaScript | Bootstrap | wordPres
-- 🛢 &nbsp; MySQL 
-- 🔧 &nbsp; Sublime Text | PyCharm | Visual Studio code  | Git
-- 🖥 &nbsp; Canva | Illustrator | Photoshop 
+<h2> 🚀 &nbsp;Some Languages I Have Experience With</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="45" height="45"/>  
+</p> 
+
+<h2>  &nbsp;Some Tools I Have Used Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpstorm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vsc" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="45" height="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/> 
+
+</p> 
+
+<br><br><br>
+
+![AmirBaghernia's Stats](https://github-readme-stats.vercel.app/api?username=AmirBaghernia&theme=blue-green&show_icons=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirBaghernia&layout=compact&theme=radical)
+
+
+
+
+
+
 
 
 
@@ -30,7 +57,7 @@
 
 </br>
 
-<p>social media and everything else, coming soon...</p>
+<p> Social media and everything else, coming soon...</p>
 
 
 
